@@ -2,7 +2,6 @@ package com.serenitybdd.demo.steps.serenity;
 
 import com.serenitybdd.demo.pages.DictionaryPage;
 import net.thucydides.core.annotations.Step;
-import net.thucydides.core.steps.ScenarioSteps;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.containsString;
